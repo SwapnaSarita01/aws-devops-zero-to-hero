@@ -10,4 +10,3 @@ if [ -n "$container_id" ]; then
 else
   echo "No running containers to remove."
 fi
-
